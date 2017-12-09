@@ -45,6 +45,9 @@
     <Compile Include="Base64Helper.cs" />
     <Compile Include="ConfigurationManagerHelper.cs" />
     <Compile Include="CookieHelper.cs" />
+    <Compile Include="CountryHelper.cs" />
+    <Compile Include="DateTimeHelper.cs" />
+    <Compile Include="HeadersHelper.cs" />
     <Compile Include="StringHelpers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
