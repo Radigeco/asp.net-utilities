@@ -2,8 +2,16 @@
 
 namespace Utilities
 {
-    public class StringHelpers
+    /// <summary>
+    /// Set of string related helper functions
+    /// </summary>
+    public static class StringHelpers
     {
+        /// <summary>
+        /// Convert string to CamelCase notation
+        /// </summary>
+        /// <param name="inputSentence"></param>
+        /// <returns></returns>
         public static string ToCamelCase(string inputSentence)
         {
             // If there are 0 or 1 characters, just return the string.
