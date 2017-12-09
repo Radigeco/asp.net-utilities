@@ -6,6 +6,7 @@ A set of utilities which should help developers when dealing with:
 * Strings
 * Reflection
 
-It can also be found on nuget : https://www.nuget.org/packages/ASP.NET.Utilities/
-or on myget : https://www.myget.org/feed/radi/package/nuget/ASP.NET.Utilities
+It can also be found on : 
+* nuget : https://www.nuget.org/packages/ASP.NET.Utilities/
+* myget : https://www.myget.org/feed/radi/package/nuget/ASP.NET.Utilities
 
