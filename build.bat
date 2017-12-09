@@ -20,4 +20,4 @@ mkdir Build
 mkdir Build\lib
 mkdir Build\lib\net40
 
-%nuget% pack "Utilities\utilities.nuspec" -NoPackageAnalysis -verbosity detailed -o Build -Version %version% -p Configuration="%config%"
+%nuget% pack "utilities.nuspec" -NoPackageAnalysis -verbosity detailed -o Build -Version %version% -p Configuration="%config%"
