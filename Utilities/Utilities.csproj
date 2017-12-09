@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Base64Helper.cs" />
     <Compile Include="ConfigurationManagerHelper.cs" />
     <Compile Include="StringHelpers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
