@@ -1,0 +1,22 @@
+
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Asp .NET Utilities</id>
+    <version>$version$</version>
+    <title>Asp .NET Utilities by Radi</title>
+    <authors>Gal Attila</authors>
+    <owners>Gal Attila</owners>
+    <licenseUrl>https://github.com/Radigeco/asp.net-utilities/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Radigeco/asp.net-utilities</projectUrl>
+    <iconUrl>https://www-asp.azureedge.net/v-2017-11-28-001/images/ui/asplogo-square.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A set of utilities which help with Asp .NET development.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Radi.All rights reserved.</copyright>
+    <tags></tags>
+  </metadata>
+  <files>
+	<file src="Utilities\bin\$configuration$\Utilities.dll" target="lib\net40\" />
+  </files>
+</package>
