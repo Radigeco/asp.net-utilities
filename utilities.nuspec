@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Asp .NET Utilities</id>
+    <id>ASP.NET.Utilities</id>
     <version>$version$</version>
     <title>Asp .NET Utilities by Radi</title>
     <authors>Gal Attila</authors>
