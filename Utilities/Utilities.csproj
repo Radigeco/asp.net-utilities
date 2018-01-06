@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="AutoMapperExtension.cs" />
     <Compile Include="Base64Helper.cs" />
+    <Compile Include="CommandLineHelper.cs" />
     <Compile Include="ConfigurationManagerHelper.cs" />
     <Compile Include="CookieHelper.cs" />
     <Compile Include="CountryHelper.cs" />
